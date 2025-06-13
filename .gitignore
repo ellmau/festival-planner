@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# Environment files
+.env
+.env.*
+.direnv
+
+# Build output
+dist/
+build/
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# Coverage
+coverage/
+
+# Misc
+*.local
