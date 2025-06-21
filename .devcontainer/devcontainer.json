@@ -27,7 +27,8 @@
 			"extensions": [
 				"jnoortheen.nix-ide",
 				"mkhl.direnv",
-				"ffrankreiter.answer-set-programming-language-support"
+				"ffrankreiter.answer-set-programming-language-support",
+				"abelcour.asp-syntax-highlight"
 			]
 		}
 	}
