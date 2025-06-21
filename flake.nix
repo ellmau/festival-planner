@@ -25,6 +25,8 @@
         buildInputs = [
           # add packages here, like
           pkgs.clingo
+          pkgs.ripgrep
+          pkgs.bat
         ];
       };
     }));
